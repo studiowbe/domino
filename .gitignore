@@ -1,0 +1,9 @@
+vendor/
+.idea/
+.phpunit.result.cache
+.php-cs-fixer.cache
+*.log
+.env
+*.sqlite
+.DS_Store
+ssh/
